@@ -2,7 +2,7 @@
 
 Name:		python-%{module}
 Version:	2.2.1
-Release:	1
+Release:	2
 Source0:	https://files.pythonhosted.org/packages/source/r/%{module}/%{module}-%{version}.tar.gz
 Summary:	API rate limit decorator
 URL:		https://pypi.org/project/ratelimit/
